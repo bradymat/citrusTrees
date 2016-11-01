@@ -6,12 +6,8 @@ Steps to get going
   
   3. `npm install`
   
-  4. `knex migrate:latest`
+  4. `npm start`
   
-  5. `knex seed:run`
-  
-  6. `npm start`
-  
-  7. type `localhost:3000` into your browser
+  5. type `localhost:3000` into your browser
   
 then you can play around with adding citrus trees
