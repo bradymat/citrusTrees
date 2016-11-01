@@ -1,4 +1,4 @@
-Steps to get going
+Steps to get going, requires git and node
 
   1. `git clone https://github.com/bradymat/citrusTrees.git`
   
