@@ -1,4 +1,4 @@
-Basic server with a database of citrus trees that can be interacted with by the client in a browser
+Express server with a knex database of citrus trees with add and delete functionality
 
 Steps to get going, requires git and node
 
