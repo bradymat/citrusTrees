@@ -1,11 +1,11 @@
 Steps to get going
 
-  `git clone https://github.com/bradymat/citrusTrees.git`
+  1. `git clone https://github.com/bradymat/citrusTrees.git`
   
-  `npm install`
+  2. `npm install`
   
-  `knex migrate:latest`
+  3. `knex migrate:latest`
   
-  `knex seed:run`
+  4. `knex seed:run`
   
 then you can play around with adding citrus trees
