@@ -1,3 +1,5 @@
+Basic server with a database of citrus trees that can be interacted with by the client in a browser
+
 Steps to get going, requires git and node
 
   1. `git clone https://github.com/bradymat/citrusTrees.git`
