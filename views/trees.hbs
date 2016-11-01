@@ -1,0 +1,17 @@
+<h1>Trees</h1>
+<form action='/trees/new' method='get'>
+  <input type='submit' value='Add a new tree'/>
+</form>
+<ul>
+{{#each trees}}
+  <li>
+    Name: {{name}}
+  </li>
+  <li>
+    Fruit: {{fruit}}
+  </li>
+  <form action='/trees/delete' method='post'>
+    <button type='submit' name='id' value='{{id}}'>delete</button>
+  </form>
+{{/each}}
+</ul>
